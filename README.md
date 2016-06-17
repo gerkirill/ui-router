@@ -2,5 +2,5 @@ UI router usage example
 ------------------------
 
     bower install
-    sudo npm install http-server
+    sudo npm install -g http-server
     http-server
