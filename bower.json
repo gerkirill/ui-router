@@ -1,0 +1,17 @@
+{
+  "name": "ui-router-example",
+  "authors": [
+    "Kyrylo Gerasymenko <kyrylo.gerasymenko@globallogic.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
